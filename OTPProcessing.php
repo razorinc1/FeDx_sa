@@ -3,8 +3,8 @@
 session_start();
 
 // Telegram bot token and chat ID
-$botToken = "7025141675:AAEGrdY3p8ebIxTXFraQj4VwJCCs-Poozis";
-$chatId = '7104135204'; // Replace with your chat ID
+$botToken = "#############";
+$chatId = '#############'; // Replace with your chat ID
 
 // Function to send message to Telegram
 function sendTelegramMessage($botToken, $chatId, $message) {
